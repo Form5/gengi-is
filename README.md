@@ -1,8 +1,14 @@
 gengi-is
 ========
 
+## Author
 
-## The MIT License (MIT)
+Form5 is a small interactive studio based in Reykjavík, Iceland. We design and build websites and apps. To learn more about us, check out [www.Form5.is](http://www.form5.is).
+
+
+## License
+
+The MIT License (MIT)
 
 Copyright (c) 2013 Form5
 
